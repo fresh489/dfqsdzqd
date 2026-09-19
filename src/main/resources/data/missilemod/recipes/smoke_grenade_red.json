@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " N ",
+    "NCN",
+    "NDN"
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft:iron_nugget"
+    },
+    "C": {
+      "item": "minecraft:charcoal"
+    },
+    "D": {
+      "item": "minecraft:red_dye"
+    }
+  },
+  "result": {
+    "item": "missilemod:smoke_grenade_red",
+    "count": 2
+  }
+}

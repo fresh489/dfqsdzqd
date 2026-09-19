@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "missilemod:block/missile_alarm_top_on",
+    "side": "missilemod:block/missile_alarm_side",
+    "bottom": "missilemod:block/missile_alarm_side"
+  }
+}

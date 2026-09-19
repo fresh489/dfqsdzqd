@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "missilemod:block/mortar"
+    },
+    "facing=south": {
+      "model": "missilemod:block/mortar"
+    },
+    "facing=east": {
+      "model": "missilemod:block/mortar"
+    },
+    "facing=west": {
+      "model": "missilemod:block/mortar"
+    }
+  }
+}

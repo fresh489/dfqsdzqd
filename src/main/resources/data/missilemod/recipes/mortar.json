@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  I",
+    " I ",
+    "BAB"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_block"
+    },
+    "B": {
+      "item": "minecraft:iron_ingot"
+    },
+    "A": {
+      "item": "minecraft:anvil"
+    }
+  },
+  "result": {
+    "item": "missilemod:mortar",
+    "count": 1
+  }
+}

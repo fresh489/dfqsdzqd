@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "missilemod:missile_tomahawk"
+    },
+    {
+      "item": "missilemod:land_mine"
+    },
+    {
+      "item": "missilemod:land_mine"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    }
+  ],
+  "result": {
+    "item": "missilemod:missile_tomahawk_cluster",
+    "count": 1
+  }
+}

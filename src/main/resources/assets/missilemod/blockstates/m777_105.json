@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "missilemod:block/m777_105"
+    },
+    "facing=south": {
+      "model": "missilemod:block/m777_105"
+    },
+    "facing=east": {
+      "model": "missilemod:block/m777_105"
+    },
+    "facing=west": {
+      "model": "missilemod:block/m777_105"
+    }
+  }
+}

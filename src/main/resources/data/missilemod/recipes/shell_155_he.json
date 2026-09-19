@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " C ",
+    "CTC",
+    "CDC"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:copper_block"
+    },
+    "T": {
+      "item": "minecraft:tnt"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "missilemod:shell_155_he",
+    "count": 4
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "missilemod:shell_155_he"
+    },
+    {
+      "item": "missilemod:land_mine"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    }
+  ],
+  "result": {
+    "item": "missilemod:shell_155_cluster",
+    "count": 1
+  }
+}

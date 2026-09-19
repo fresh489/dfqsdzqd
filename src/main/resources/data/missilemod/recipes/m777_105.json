@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  I",
+    " I ",
+    "SBS"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_block"
+    },
+    "B": {
+      "item": "minecraft:blast_furnace"
+    },
+    "S": {
+      "item": "minecraft:iron_bars"
+    }
+  },
+  "result": {
+    "item": "missilemod:m777_105",
+    "count": 1
+  }
+}

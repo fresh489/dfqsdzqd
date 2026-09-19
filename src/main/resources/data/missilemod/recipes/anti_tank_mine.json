@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "IPI",
+    "TTT",
+    "III"
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:heavy_weighted_pressure_plate"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "T": {
+      "item": "minecraft:tnt"
+    }
+  },
+  "result": {
+    "item": "missilemod:anti_tank_mine",
+    "count": 1
+  }
+}

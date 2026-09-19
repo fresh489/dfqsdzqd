@@ -1,0 +1,126 @@
+{
+  "missile.launch": {
+    "subtitle": "subtitles.missilemod.missile.launch",
+    "sounds": [
+      {
+        "name": "minecraft:fireworks/launch1",
+        "pitch": 0.5,
+        "attenuation_distance": 48
+      }
+    ]
+  },
+  "missile.engine": {
+    "subtitle": "subtitles.missilemod.missile.engine",
+    "sounds": [
+      {
+        "name": "minecraft:item/elytra/elytra_loop",
+        "pitch": 0.6,
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "missile.explosion": {
+    "subtitle": "subtitles.missilemod.missile.explosion",
+    "sounds": [
+      {
+        "name": "minecraft:random/explode1",
+        "pitch": 0.5
+      },
+      {
+        "name": "minecraft:random/explode2",
+        "pitch": 0.5
+      },
+      {
+        "name": "minecraft:random/explode3",
+        "pitch": 0.5
+      },
+      {
+        "name": "minecraft:random/explode4",
+        "pitch": 0.5
+      }
+    ]
+  },
+  "impact.frag": {
+    "subtitle": "subtitles.missilemod.impact.frag",
+    "sounds": [
+      {
+        "name": "missilemod:frag_impact",
+        "attenuation_distance": 64
+      }
+    ]
+  },
+  "shell.whistle": {
+    "subtitle": "subtitles.missilemod.shell.whistle",
+    "sounds": [
+      {
+        "name": "missilemod:shell_whistle",
+        "attenuation_distance": 96
+      }
+    ]
+  },
+  "artillery.cannon_fire": {
+    "subtitle": "subtitles.missilemod.artillery.cannon_fire",
+    "sounds": [
+      {
+        "name": "missilemod:cannon_fire",
+        "attenuation_distance": 160
+      }
+    ]
+  },
+  "artillery.mortar_fire": {
+    "subtitle": "subtitles.missilemod.artillery.mortar_fire",
+    "sounds": [
+      {
+        "name": "missilemod:mortar_fire",
+        "attenuation_distance": 64
+      }
+    ]
+  },
+  "alarm.beep": {
+    "subtitle": "subtitles.missilemod.alarm.beep",
+    "sounds": [
+      {
+        "name": "missilemod:alarm_beep",
+        "attenuation_distance": 24
+      }
+    ]
+  },
+  "alarm.fast": {
+    "subtitle": "subtitles.missilemod.alarm.fast",
+    "sounds": [
+      {
+        "name": "missilemod:alarm_fast",
+        "attenuation_distance": 48
+      }
+    ]
+  },
+  "alarm.siren": {
+    "subtitle": "subtitles.missilemod.alarm.siren",
+    "sounds": [
+      {
+        "name": "missilemod:siren",
+        "attenuation_distance": 128
+      }
+    ]
+  },
+  "strike.jet_flyby": {
+    "subtitle": "subtitles.missilemod.strike.jet_flyby",
+    "sounds": [
+      {
+        "name": "missilemod:jet_flyby",
+        "attenuation_distance": 256,
+        "stream": true
+      }
+    ]
+  },
+  "mine.click": {
+    "subtitle": "subtitles.missilemod.mine.click",
+    "sounds": [
+      {
+        "name": "minecraft:block.tripwire.click_on",
+        "type": "event",
+        "pitch": 1.3
+      }
+    ]
+  }
+}

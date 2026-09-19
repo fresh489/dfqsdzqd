@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " R ",
+    "IDI",
+    "ICI"
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:lightning_rod"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "C": {
+      "item": "minecraft:comparator"
+    }
+  },
+  "result": {
+    "item": "missilemod:strike_radio",
+    "count": 1
+  }
+}

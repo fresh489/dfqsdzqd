@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "alert=0": {
+      "model": "missilemod:block/missile_alarm"
+    },
+    "alert=1": {
+      "model": "missilemod:block/missile_alarm_on"
+    },
+    "alert=2": {
+      "model": "missilemod:block/missile_alarm_on"
+    },
+    "alert=3": {
+      "model": "missilemod:block/missile_alarm_on"
+    }
+  }
+}

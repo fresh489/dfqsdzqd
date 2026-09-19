@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "NSN",
+    "ETE",
+    "NOB"
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "S": {
+      "item": "minecraft:nether_star"
+    },
+    "E": {
+      "item": "minecraft:end_crystal"
+    },
+    "T": {
+      "item": "minecraft:tnt"
+    },
+    "O": {
+      "item": "minecraft:crying_obsidian"
+    },
+    "B": {
+      "item": "minecraft:beacon"
+    }
+  },
+  "result": {
+    "item": "missilemod:missile_strategic",
+    "count": 1
+  }
+}

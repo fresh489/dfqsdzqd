@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  N",
+    " I ",
+    "SBS"
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "I": {
+      "item": "minecraft:iron_block"
+    },
+    "B": {
+      "item": "minecraft:blast_furnace"
+    },
+    "S": {
+      "item": "minecraft:iron_bars"
+    }
+  },
+  "result": {
+    "item": "missilemod:m777_155",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "missilemod:missile_alarm",
+    "missilemod:mortar",
+    "missilemod:m777_105",
+    "missilemod:m777_155"
+  ]
+}
